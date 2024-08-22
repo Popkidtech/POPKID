@@ -1,11 +1,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> ALPHA-MD V2.0.0</h1>
+ <h1 align="center"> POPKID-MD V2.0.0</h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=pink&lines=Ȃ̈M̑̈+Ȃ̈L̑̈P̑̈H̑̈Ȃ̈+M̑̈D̑̈+C̑̈Ȓ̈Ȇ̈Ȃ̈T̑̈Ȇ̈D̑̈+B̑̈Y̑̈+K̑̈Ȇ̈Ȋ̈T̑̈H̑̈K̑̈Ȇ̈Ȋ̈Z̑̈Z̑̈Ȃ̈H̑̈)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=pink&lines=A͒M͒+P͒O͒P͒K͒I͒D͒+M̑̈D̑̈+C̑̈Ȓ̈Ȇ̈Ȃ̈T̑̈Ȇ̈D̑̈+B̑̈Y̑̈+P͒O͒P͒K͒I͒D͒)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
@@ -14,7 +14,7 @@
 
 
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/967c663a5978c545f78d6.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/9d83d2c7cbc99f97e852d.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">  SCAN SESSION </h1>
  
@@ -28,7 +28,7 @@
 
 <a><img src='https://i.imgur.com/LyHc3i.gif'/></a>
 ## First fork my repository
-<a href="https://github.com/Keithkeizzah/ALPHA-MD1/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
+<a href="https://github.com/Popkidtech/POPKID/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
 ## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗠𝗘 𝗚𝗘𝗘
 
 **JOIN OUR SUPPORT GROUP**
