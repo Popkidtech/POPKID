@@ -1,9 +1,9 @@
 {
-  "name":"ALPHA-MD",
-  "description":"Best whatsapp bot developed by keithkeizzah",
+  "name":"POPKID-MD",
+  "description":"Best whatsapp bot developed by popkid",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/0c351a67f1dffd1f34cf5.jpg",
-  "repository":"https://github.com/keithkeizzah/ALPHA-MD1",
+  "logo":"https://telegra.ph/file/9d83d2c7cbc99f97e852d.jpg",
+  "repository":"https://github.com/Popkidtech/POPKID",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐀𝐋𝐏𝐇𝐀-𝐌𝐃",
+      "value":"𝐏𝐎𝐏𝐊𝐈𝐃-𝐌𝐃",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/0c351a67f1dffd1f34cf5.jpg",
+      "value":"https://telegra.ph/file/9d83d2c7cbc99f97e852d.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐊𝐞𝐢𝐭𝐡"
+    "value": "𝐏𝐨𝐩𝐤𝐢𝐝"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254796299159"
+    "value": "254111385747"
   },
     "WARN_COUNT":
   {
